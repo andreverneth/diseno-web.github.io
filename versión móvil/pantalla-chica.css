@@ -576,7 +576,7 @@ form{
     padding: 12px 12px;
     background-color: cadetblue ;
     color: whitesmoke;
-    margin:80px;
+    margin:10px;
     display: grid;
     gap: 1em;
     grid-auto-columns: 100%;    
@@ -592,8 +592,7 @@ form{
 }
 #comentario{
     font-family: 'Roboto', sans-serif;
-    font-size: medium;
-
+    
 }
 
 footer{
