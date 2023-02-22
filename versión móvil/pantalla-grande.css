@@ -639,11 +639,12 @@ form{
     padding: 12px 12px;
     background-color: blanchedalmond;
     color:blueviolet;
-    margin: 25px 450px;
+    margin: 25px 380px;
     display: flex;
     flex-direction: column;
     gap: 1em;
-    grid-auto-columns: 100%;    
+    grid-auto-columns: 100%;
+    justify-content: center;
 }
 #forma input{
     font-size: 1rem;
@@ -656,8 +657,7 @@ form{
 }
 #comentario{
     font-family: inherit;
-    font-size: medium;
-
+    
 }
 
 footer{
